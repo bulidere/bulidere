@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Buli Deressa]
 
 🚀 **Junior Data Scientist | AI & Machine Learning Enthusiast**
 
