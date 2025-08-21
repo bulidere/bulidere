@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Buli Deressa]
+# Hi there 👋, I'm Buli Deressa
 
 🚀 **Junior Data Scientist | AI & Machine Learning Enthusiast**
 
@@ -20,8 +20,8 @@ Currently learning and working on projects in:
 - Cloud & MLOps basics  
 
 ### 📫 How to reach me
-- LinkedIn:[(https://www.linkedin.com/in/bulideressa)]
-- Email: [bulideressa@gmail.com]
+- LinkedIn:(https://www.linkedin.com/in/bulideressa)
+- Email: bulideressa@gmail.com
    
 
 ---
